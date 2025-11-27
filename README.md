@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 class Program
 {
-
     static List<string> todoList = new List<string>();
 
     static void ShowMenu()
